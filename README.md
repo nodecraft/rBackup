@@ -3,7 +3,7 @@ rBackup
 
 Command line RethinkDB to JSON backup and restore script built in Node.js. This does not restore secondary indexs, sharing, or replication. This is only a method to store the data as raw JSON to hard backups.
 
-    npm install rBackup -g
+    npm install rbackup -g
 
 
 ```
