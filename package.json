@@ -1,6 +1,6 @@
 {
   "name": "rbackup",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "RethinkDB to JSON backup tool",
   "keywords": ["rethink"],
   "author": "Nodecraft Hosting LLC <admin@getnodecraft.net>",
