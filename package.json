@@ -1,5 +1,5 @@
 {
-  "name": "rBackup",
+  "name": "rbackup",
   "version": "0.0.1",
   "description": "RethinkDB to JSON backup tool",
   "keywords": ["rethink"],
